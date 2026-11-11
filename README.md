@@ -1,4 +1,4 @@
-# Marquee Cinema - PHP Header and Footer Homework
+# PHP Header and Footer Homework
 
 A simple movie rating website built with PHP, HTML, CSS, and MySQL.
 
