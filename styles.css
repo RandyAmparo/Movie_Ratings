@@ -1,0 +1,17 @@
+/* Simple movie theater theme */
+body { margin: 0; font-family: Arial, sans-serif; background: #121826; color: #f4f5f8; }
+.container { max-width: 780px; margin: auto; padding: 20px; }
+.site-header { background: #202b40; border-bottom: 3px solid #e6ad42; }
+.site-header .container { display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap; }
+.site-header h1 { margin: 0; font-size: 24px; }
+a { color: #ffd27d; }
+nav a { margin-left: 14px; }
+.panel { background: #202b40; padding: 24px; margin: 24px 0; border-radius: 10px; }
+h2 { color: #ffd27d; }
+label { display: block; margin: 14px 0 6px; }
+input { display: block; width: 100%; box-sizing: border-box; padding: 10px; border: 1px solid #8994a8; border-radius: 5px; }
+button { margin-top: 18px; background: #e6ad42; color: #151515; padding: 11px 18px; border: 0; border-radius: 5px; cursor: pointer; font-weight: bold; }
+button:hover { background: #ffd27d; }
+.review { border-top: 1px solid #526077; padding: 10px 0; }
+.review h3 { margin-bottom: 6px; }
+footer { text-align: center; padding: 18px; background: #202b40; }
